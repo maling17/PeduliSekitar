@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Peduli Sekitar</string>
+    <string name="event_recommended">Event Recommended</string>
+    <string name="judul">judul</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="yayasan">Yayasan</string>
+    <string name="log_in_or_register">Log in or Register</string>
+    <string name="silahkan_login_untuk_mengakses_fitur_lebih_banyak">Silahkan login untuk mengakses fitur lebih banyak</string>
+    <string name="event_baru">Event Baru</string>
+    <string name="home">Home</string>
+    <string name="title_New">New</string>
+    <string name="title_map">Map</string>
+    <string name="title_yayasan">Yayasan</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="kebutuhan">Kebutuhan</string>
+</resources>
